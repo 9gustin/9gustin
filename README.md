@@ -1,5 +1,5 @@
-<h2>Hola, Soy Agus! 👋</h2>
+<h2>Hi, I'm Agus! 👋</h2>
 
 > Frontend Developer | React
 
-Encontrame en Linkedin como <a href="https://www.linkedin.com/in/vazquezagustin/">@vazquezagustin</a>
+Find me on Linkedin as <a href="https://www.linkedin.com/in/vazquezagustin/">@vazquezagustin</a>
